@@ -5,7 +5,7 @@ class Test {
 		 System.out.println("또 만났네요");
 
 		System.out.println("안녕하세요")
-				
+		-11		
 
 	}
 }
